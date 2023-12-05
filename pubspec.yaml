@@ -64,6 +64,8 @@ flutter:
   assets:
     - assets/icons/arrow-back-ios.svg
     - assets/icons/more-horiz.svg
+    - assets/icons/Search.svg
+    - assets/icons/Filter.svg
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
