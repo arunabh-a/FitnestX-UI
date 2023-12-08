@@ -42,8 +42,6 @@ class _HomePageState extends State<HomePage> {
                     const SizedBox(height: 40,),
                     popularDietSec(),
                     const SizedBox(height: 40,),
-
-
                 ],
             ),
         );

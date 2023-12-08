@@ -1,16 +1,7 @@
-# dyfit
+# FitnestX - Meal Planner UI
 
-A new Flutter project.
+A UI designed with reference to the UI kit by Pixel True using Flutter
 
-## Getting Started
+## References
+-[UI Kit](https://www.pixeltrue.com/free-ui-kits/fitness-app-ui-kit)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
