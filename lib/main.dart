@@ -1,6 +1,6 @@
 // ignore_for_file: prefer_const_constructors
 
-import 'package:DyFit/pages/home.dart';
+import 'package:fitnest/pages/home.dart';
 import 'package:flutter/material.dart';
 
 void main() {
